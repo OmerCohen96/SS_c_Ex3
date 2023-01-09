@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "isort.h": "c",
+        "stdio.h": "c"
+    }
+}
