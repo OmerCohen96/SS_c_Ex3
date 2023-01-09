@@ -12,3 +12,4 @@ void print_lines(char* , char*);
 void print_similar_word(char*, char*);
 
 void print_word (char* str , int num);
+
